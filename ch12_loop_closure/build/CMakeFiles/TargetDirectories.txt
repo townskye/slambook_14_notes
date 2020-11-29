@@ -1,0 +1,5 @@
+/home/towns/C++/slambook/ch12_loop_closure/build/CMakeFiles/edit_cache.dir
+/home/towns/C++/slambook/ch12_loop_closure/build/CMakeFiles/feature_training.dir
+/home/towns/C++/slambook/ch12_loop_closure/build/CMakeFiles/loop_closure.dir
+/home/towns/C++/slambook/ch12_loop_closure/build/CMakeFiles/gen_vocab.dir
+/home/towns/C++/slambook/ch12_loop_closure/build/CMakeFiles/rebuild_cache.dir

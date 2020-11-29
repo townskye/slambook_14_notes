@@ -1,0 +1,49 @@
+[
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/frame.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/frame.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/frame.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/mappoint.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/mappoint.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/mappoint.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/map.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/map.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/map.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/camera.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/camera.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/camera.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/config.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/config.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/config.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/g2o_types.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/g2o_types.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/g2o_types.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++   -Dmyslam_EXPORTS -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG -fPIC   -o src/CMakeFiles/myslam.dir/visual_odometry.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/src/visual_odometry.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/src/visual_odometry.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch9_practice_code/0.4/build",
+  "command": "g++    -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3 -I../include  -std=c++11 -march=native -O3 -O3 -DNDEBUG   -o test/CMakeFiles/run_vo.dir/run_vo.cpp.o -c /home/towns/C++/slambook/ch9_practice_code/0.4/test/run_vo.cpp",
+  "file": "/home/towns/C++/slambook/ch9_practice_code/0.4/test/run_vo.cpp"
+}
+]

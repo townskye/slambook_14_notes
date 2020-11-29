@@ -1,0 +1,22 @@
+# ninja log v5
+0	4988	1603356880096109140	CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o	7e47ae0ad3e50f5a
+0	91	1603356954662803827	pose_graph_g2o_SE3	d0a9f11d8cbd687e
+0	5123	1603361714610375094	CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o	7e47ae0ad3e50f5a
+5123	5167	1603361714654374141	pose_graph_g2o_SE3	d0a9f11d8cbd687e
+0	52	1603361737909872067	pose_graph_g2o_SE3	d0a9f11d8cbd687e
+0	4938	1603361812224286029	CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o	7e47ae0ad3e50f5a
+4938	4987	1603361812272285013	pose_graph_g2o_SE3	d0a9f11d8cbd687e
+0	5109	1603361853119424141	CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o	7e47ae0ad3e50f5a
+5109	5153	1603361853159423302	pose_graph_g2o_SE3	d0a9f11d8cbd687e
+0	4959	1603361945261507001	CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o	7e47ae0ad3e50f5a
+4959	5003	1603361945305506093	pose_graph_g2o_SE3	d0a9f11d8cbd687e
+0	5465	1603619403543038554	CMakeFiles/pose_graph_g2o_lie.dir/pose_graph_g2o_lie_algebra.cpp.o	2080ee2e129c27b5
+5465	5528	1603619403603039413	pose_graph_g2o_lie	f23d0845b39a1547
+0	5471	1603619840475003775	CMakeFiles/pose_graph_g2o_lie.dir/pose_graph_g2o_lie_algebra.cpp.o	2080ee2e129c27b5
+5471	5517	1603619840519006988	pose_graph_g2o_lie	f23d0845b39a1547
+0	6023	1604028674865974969	CMakeFiles/pose_graph_g2o_SE3.dir/pose_graph_g2o_SE3.cpp.o	7da1c946e7a02f50
+1	7441	1604028676285913059	CMakeFiles/pose_graph_gtsam.dir/pose_graph_gtsam.cpp.o	828ba388d1c54e79
+0	99	1604028715956181277	pose_graph_gtsam	f86c1dc690408080
+0	105	1604028715960181103	pose_graph_g2o_SE3	e0b21fcb729bc4d4
+0	5779	1604028721639932830	CMakeFiles/pose_graph_g2o_lie.dir/pose_graph_g2o_lie_algebra.cpp.o	bd039086b5007835
+5779	5826	1604028721687930732	pose_graph_g2o_lie	9a15346e0ba704a0

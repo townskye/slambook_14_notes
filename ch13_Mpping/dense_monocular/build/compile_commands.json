@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/towns/C++/slambook/ch13_Mpping/dense_monocular/build",
+  "command": "/usr/bin/g++-5    -I/usr/include/eigen3 -isystem /usr/local/include -isystem /usr/local/include/opencv -I/home/towns/Downloads/Sophus -I/usr/local/include/eigen3  -std=c++11 -march=native -O3 -fopenmp -O3 -DNDEBUG   -o CMakeFiles/dense_mapping.dir/dense_mapping.cpp.o -c /home/towns/C++/slambook/ch13_Mpping/dense_monocular/dense_mapping.cpp",
+  "file": "/home/towns/C++/slambook/ch13_Mpping/dense_monocular/dense_mapping.cpp"
+}
+]

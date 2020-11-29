@@ -1,0 +1,7 @@
+# ninja log v5
+4	7322	1599897309939621572	src/CMakeFiles/myslam.dir/mappoint.cpp.o	a91893177d5f027e
+5	7325	1599897309939621572	src/CMakeFiles/myslam.dir/camera.cpp.o	762ceced32505f95
+7	7325	1599897309947621379	src/CMakeFiles/myslam.dir/config.cpp.o	69ef6621029b28b9
+1	7480	1599897310103617611	src/CMakeFiles/myslam.dir/frame.cpp.o	cb3e562dba480a58
+4	7689	1599897310311612593	src/CMakeFiles/myslam.dir/map.cpp.o	3e23676544fde85f
+7689	7866	1599897310487608348	../lib/libmyslam.so	6b3b33da8578272e

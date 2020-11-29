@@ -1,0 +1,19 @@
+[
+{
+  "directory": "/home/towns/C++/slambook/ch12_loop_closure/build",
+  "command": "/usr/bin/g++-5    -isystem /usr/local/include -isystem /usr/local/include/opencv  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/feature_training.dir/feature_training.cpp.o -c /home/towns/C++/slambook/ch12_loop_closure/feature_training.cpp",
+  "file": "/home/towns/C++/slambook/ch12_loop_closure/feature_training.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch12_loop_closure/build",
+  "command": "/usr/bin/g++-5    -isystem /usr/local/include -isystem /usr/local/include/opencv  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/loop_closure.dir/loop_closure.cpp.o -c /home/towns/C++/slambook/ch12_loop_closure/loop_closure.cpp",
+  "file": "/home/towns/C++/slambook/ch12_loop_closure/loop_closure.cpp"
+},
+
+{
+  "directory": "/home/towns/C++/slambook/ch12_loop_closure/build",
+  "command": "/usr/bin/g++-5    -isystem /usr/local/include -isystem /usr/local/include/opencv  -std=c++11 -O3 -O3 -DNDEBUG   -o CMakeFiles/gen_vocab.dir/gen_vocab_large.cpp.o -c /home/towns/C++/slambook/ch12_loop_closure/gen_vocab_large.cpp",
+  "file": "/home/towns/C++/slambook/ch12_loop_closure/gen_vocab_large.cpp"
+}
+]

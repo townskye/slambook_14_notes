@@ -1,0 +1,21 @@
+# ninja log v5
+1	11053	1600087952389185986	src/CMakeFiles/myslam.dir/mappoint.cpp.o	76f0cc1c53b6e88e
+3	11386	1600087952737178546	src/CMakeFiles/myslam.dir/map.cpp.o	90b9e73cd06b808
+5	11655	1600087953009172731	src/CMakeFiles/myslam.dir/config.cpp.o	1c1d82eb22f72330
+0	11656	1600087953017172560	src/CMakeFiles/myslam.dir/frame.cpp.o	ad748db22ceb636a
+3	11873	1600087953233167964	src/CMakeFiles/myslam.dir/camera.cpp.o	31eabb3e4475591b
+9	41408	1600087982748582885	src/CMakeFiles/myslam.dir/g2o_types.cpp.o	fc7a89541d38f341
+11054	54472	1600087995816351062	src/CMakeFiles/myslam.dir/visual_odometry.cpp.o	f7d75bee5b69f733
+54472	55506	1600087996864333173	../lib/libmyslam.so	2e0569e94d38333
+55506	58524	1600087999884282202	test/CMakeFiles/run_vo.dir/run_vo.cpp.o	7c70095a2b672c3b
+58524	59061	1600088000420273252	../bin/run_vo	7f3c5f80fb28f508
+6	8638	1600088398035434282	src/CMakeFiles/myslam.dir/config.cpp.o	69ef6621029b28b9
+1	8801	1600088398199435786	src/CMakeFiles/myslam.dir/frame.cpp.o	cb3e562dba480a58
+1	8848	1600088398251436263	src/CMakeFiles/myslam.dir/mappoint.cpp.o	a91893177d5f027e
+5	9054	1600088398447438061	src/CMakeFiles/myslam.dir/camera.cpp.o	762ceced32505f95
+4	9346	1600088398751440849	src/CMakeFiles/myslam.dir/map.cpp.o	3e23676544fde85f
+8	20905	1600088410311549845	src/CMakeFiles/myslam.dir/g2o_types.cpp.o	66def73d87570a6a
+8639	28980	1600088418383629285	src/CMakeFiles/myslam.dir/visual_odometry.cpp.o	df87a676f9a360cf
+28980	29193	1600088418595631408	../lib/libmyslam.so	a955eb0eb1b28260
+29193	31451	1600088420855654151	test/CMakeFiles/run_vo.dir/run_vo.cpp.o	b38c211fe8f4bb8c
+31451	31954	1600088421355659213	../bin/run_vo	d62011866b2a4c6d

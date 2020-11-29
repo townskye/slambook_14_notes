@@ -1,0 +1,68 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "octomap_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-octomap_mapping-Release-db9efecd3d5fdffa035f.json",
+					"name" : "octomap_mapping",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "pointcloud_mapping::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-pointcloud_mapping-Release-0ed248228c6b9ea66040.json",
+					"name" : "pointcloud_mapping",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/towns/C++/slambook/ch13_Mpping/dense_RGBD/build",
+		"source" : "/home/towns/C++/slambook/ch13_Mpping/dense_RGBD"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 1
+	}
+}
